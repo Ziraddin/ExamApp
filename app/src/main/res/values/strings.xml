@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamApp</string>
+    <string name="find_your_doctor"><font color="#25282B">Find</font> <font color="#A0A4A8">your doctor</font></string>
+    <string name="search_doctor_medicines_etc"><font color="#CACCCF">Search doctor, medicines etc</font></string>
+    <string name="top_doctors">Top Doctors</string>
+    <string name="view_all">View all</string>
+    <string name="desc">dr. Gilang is one of the best doctors in the\nPersahabatan Hospital. He has saved more than\n1000 patients in the past 3 years. He has also\nreceived many awards from domestic and\nabroad as the best doctors. He is available on a\nprivate or schedule.</string>
+</resources>
